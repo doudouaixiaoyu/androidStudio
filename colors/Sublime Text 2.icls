@@ -4,7 +4,7 @@
     <property name="created">2019-05-17T09:39:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-07-30T23:14:09</property>
+    <property name="modified">2020-08-04T00:20:58</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -292,7 +292,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="f9faf4" />
+        <option name="FOREGROUND" value="f9faf3" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
