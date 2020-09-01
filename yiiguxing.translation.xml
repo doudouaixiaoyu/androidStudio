@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AnimationController.repeat() called without an explicit period and with no default Duration.\n' 'Either the &quot;period&quot; argument to the repeat() method should be provided, or the ' '&quot;duration&quot; property should be set, either in the constructor or later, before ' 'calling the repeat() function." />
+      <item value="period" />
       <item value="The typeface variant to use when drawing the letters (e.g., italics)." />
       <item value="the" />
       <item value="text Baseline" />
@@ -10,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
