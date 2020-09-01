@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The typeface variant to use when drawing the letters (e.g., italics)." />
+      <item value="the" />
+      <item value="text Baseline" />
+      <item value="Some fonts support multiple variants of how a given character can be /// rendered. For example, a font might provide both proportional and /// tabular numbers, or it might offer versions of the zero digit with /// and without slashes. [FontFeature]s can be used to select which of /// these variants will be used for rendering." />
+      <item value="rendering" />
+      <item value="A list of [FontFeature]s that affect how the font selects glyphs." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+</application>
